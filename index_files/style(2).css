@@ -1,0 +1,116 @@
+/*
+Theme Name: Forever Young
+Template: bizberg
+Text Domain: forever-young
+Author: Bizberg Themes
+Author URI: https://bizbergthemes.com/ 
+Theme URI: https://bizbergthemes.com/downloads/forever-young/
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Description: Forever Young is a bright blog theme with an absolutely stunning design. The theme is so designed that you can showcase your content effortlessly in a visually appealing way. It supports high-resolution photography and renders the image beautifully on the screen. Also, the design is fully flexible and responsive. The visitors can access the content from any screen size and device without compromising its design display. Easy and powerful customization is one of the best features of Forever Young. All of the modifications and edits can be accessed using the WordPress theme customizer.
+Tags: custom-logo,custom-menu,featured-images,threaded-comments,translation-ready,left-sidebar,right-sidebar,grid-layout,theme-options,blog,news,portfolio
+Version: 0.4
+Tested up to: 5.8
+Requires PHP: 5.6
+*/
+
+header#masthead #top-bar {
+    padding: 5px 0;
+}
+
+#sidebar .widget_block:not(.widget_search) {
+    margin-bottom: 0;
+}
+
+.navbar-default .navbar-nav > li > a{
+    letter-spacing: 0;
+}
+
+.navbar-default .has-no-menu-description .navbar-nav>li>a {
+    padding: 15px 20px 17px;
+    color: #000;
+}
+
+.navbar-default .has-no-menu-description .navbar-nav li ul {
+    top: 60px;
+}
+
+.blog_listing_grid_two_column .entry-content{
+	margin-top: 0.7em;
+}
+
+.comment-reply-title {
+    text-transform: capitalize !important;
+}
+
+#tf-partical-wrap {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
+    z-index: -1;
+}
+
+.tf-ball {
+    position: absolute;
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -moz-border-radius: 100%;
+    opacity: .1;
+}
+
+.bizberg_grid_mode_two_col .blog_listing_grid_two_column h2.entry-title a,
+.single_post_layout_2 .related_posts_wrapper .related_posts h2 a {
+    background: linear-gradient(to right, #181d38, #181d38);
+    transition: background-size ease-in-out .5s;
+    background-size: 0 2px!important;
+    background-position: left 87%!important;
+    background-repeat: no-repeat!important;
+    padding-bottom: 6px;
+}
+
+.bizberg_grid_mode_two_col .blog_listing_grid_two_column h2.entry-title a:hover,
+.single_post_layout_2 .related_posts_wrapper .related_posts h2 a:hover {
+    text-decoration: none!important;
+    background-size: 100% 2px!important;
+    transition: background-size ease-in-out .5s;
+}
+
+.navbar-nav li ul li a{
+    font-size: 14px;
+}
+
+body.bizberg_woocommerce_shop ul.products li.product .woocommerce-loop-product__title{
+    font-size: 25px!important;
+    text-transform: capitalize;
+}
+
+body.bizberg_woocommerce_shop ul.products li.product a, .bizberg_woocommerce_shop .product-compare-wishlist p, .bizberg_woocommerce_shop .wishlist_compare_wrapper.compare_wishlist_both .bizberg_product_wishlist span.feedback{
+    font-size: 100%;
+}
+
+body.bizberg_woocommerce_shop section.related.products > h2{
+    font-size: 34px;
+    text-transform: capitalize;
+}
+
+.bizberg_sidebar #sidebar .widget h2, .bizberg_sidebar #sidebar .wp-block-search .wp-block-search__label{
+    padding: 10px 0;
+    text-align: center;
+    border-left: 3px solid #735777;
+}
+
+.bizberg_sidebar #sidebar .widget h2:before,.bizberg_sidebar #sidebar .widget .wp-block-search__label::before{
+    display: none;
+}
+
+#commentform .form-submit input{
+    padding-bottom: 7px;
+}
+
+.wp-block-search .wp-block-search__label{
+    font-weight: normal;
+}
