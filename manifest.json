@@ -3,10 +3,10 @@
     "theme_color": "#1fb5ad",
     "background_color": "#f1f2f7",
     "display": "standalone",
-    "name": "vbskycn 的个人博客",
+    "name": "直播电视网站",
     "start_url": ".",
-    "description": "记录精彩的程序人生",
-    "short_name": "vbskycn 的个人博客",
+    "description": "安卓系统最好最易用的直播app",
+    "short_name": "直播电视网站",
     "icons": [
         {
             "sizes": "48x48",
