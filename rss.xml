@@ -6,7 +6,7 @@
     <atom:link href="https://zbds.ml/rss.xml" rel="self" type="application/rss+xml"/>
     <description>安卓系统最好最易用的直播app，zbds.ml</description>
     <generator>Solo, v4.4.0, https://b3log.org/solo</generator>
-    <lastBuildDate>Mon, 30 May 2022 14:55:41 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 31 May 2022 13:24:46 +0800</lastBuildDate>
     <language>zh-cn</language>
     <item>
       <title>直播电视软件用户请看</title>
@@ -37,7 +37,7 @@
 <p><strong>维护这款软件以来，付出了太多的时间。上班实在没有更多精力为软件维护和继续服务器投入了, 所以开通打赏功能！</strong></p>
 <p><strong>方法：进入软件设置页面，记下左上角有个账号！微信扫下面的大赏码，可以在打赏时留言输入你的账号，作者会很快为你激活权益(如果太慢请再联系下微信QQ或邮件)。激活后，软件左边菜单下面就会多一些栏目，里面会多一些节目。</strong></p>
 <h2><strong>30享受3个月权益，60享12个月权益</strong></h2>
-<p><img src="https://ae01.alicdn.com/kf/Hbd67de0784b34cfd8f914e57ac79e834l.jpg" alt=""></p>
+<p><img src="https://img.zhoujie218.top/zbds/wxds.jpg" alt="wxds.jpg"></p>
 <p><strong>微信内打开此网站的可以长按二维码识别</strong></p>
 <h2><strong>打赏说明</strong></h2>
 <p><strong>请知悉：打赏是对软件的认可，并非购买。同时作者会对打赏用户提供一定的技术支持，并开通一个专区，里面会不定期增减很多热门的港台海外节目！</strong></p>
@@ -58,7 +58,8 @@
 <h2><strong>网络知识科普</strong></h2>
 <p><strong>同样的时间，同样的频道，为什么我播放了，别人可以流畅播放呢？</strong></p>
 <p><strong>原因一： 你的网络实际链接速度不够或被你的运营商劫持。（如果别人能放就排除了节目服务器的原因）</strong>****<br>
-<strong>实际的网络链接速度不够，这个和运营商签约的速度不一样有很多原因：</strong></p>
+**<br>
+**<strong>实际的网络链接速度不够，这个和运营商签约的速度不一样有很多原因：</strong></p>
 <ol>
 <li><strong>运营商原因，运营商号称入户百兆千兆，但是一个单元楼下来就那么多用户，一个小区就更多了，一般一个小区一个机房，一个楼一根主光纤，一个主交换机（有是还在用千兆的，有的是万兆的，十万兆的别想了太贵）现在家宽基本起步100M了，那么多用户你加加看超过设备总容量了吧，这个怎么样保证用户速度呢？运营商就是断定用户不会同时使用，给你加限制，让你实际速度差很多！测试速度用的是下载协议，这个运营商设备会自动放行的，所以能到满速，其它应用协议是不同的，运营商设备能精准识别！还有为什么商用宽带10M要几千一个月，家用宽带100M也就几十有的还免费送，缩水宽带，共享宽带百度一下。不了解你永远不会明白1000M光纤怎么刷个视频还会卡。还有的运营商会劫持一些IP地址到他们的广告服务器或是直接屏蔽，这个原因未知，也没有办法各地实际测试。</strong></li>
 <li><strong>你家里内网的原因，运营商线路入户后，要经过光猫—-路由器—网线或是无线—链接你的终端，这其中的任意一环的性能都会影响你最终的网速。比如光猫路由器用了百兆端口，无线WIFI连接有2.4G和5G，速度相差很多，网线有5类6类铁苡铜苡无氧铜苡之分，水晶接头有千M百M之分，甚至是线序错了，或是断了一根线苡，都是能用的只是速度下降很多。</strong></li>
@@ -87,7 +88,7 @@
       <author>vbskycn</author>
       <guid>https://zbds.ml/101.html</guid>
       <category>软件发布</category>
-      <pubDate>Mon, 30 May 2022 14:01:50 +0800</pubDate>
+      <pubDate>Tue, 31 May 2022 13:12:03 +0800</pubDate>
     </item>
   </channel>
 </rss>
